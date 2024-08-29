@@ -1,4 +1,5 @@
 # Text To SQL LLM App with Google Gemini Pro
+![Screenshot (73)](https://github.com/user-attachments/assets/6688f87e-9f9d-4330-9d6e-9f03074527b8)
 
 ## Project Overview
 This project implements a Text-to-SQL application using Google's Gemini Pro language model. The app allows users to input natural language queries, which are then converted into SQL queries and executed against a SQL database. The results are displayed in a user-friendly interface created with Streamlit.
